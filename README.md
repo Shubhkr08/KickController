@@ -1,6 +1,6 @@
 # KickController
 
-I am making a STM32 based flight controller for my drone.
+I am making a STM32F405RGT6 based flight controller for my drone.and has IMU and barometer and has a USB-B Type. It is designed for 4 motor drone. It has 4 layer PCB
 <br><img width="1177" height="850" alt="Screenshot 2026-05-10 063511" src="https://github.com/user-attachments/assets/a50bd4fc-0ba1-4aff-80b7-457b3f4b2eb3" />
 
 
@@ -8,9 +8,9 @@ I am making a STM32 based flight controller for my drone.
 
 ## Features
 
-Microcontroller: STM32F405RGT6
-IMU Sensor: MPU-6050 / ICM-2098
-Barometer: BMP280
+Microcontroller: STM32F405RGT6<br>
+IMU Sensor: MPU-6050 / ICM-2098<br>
+Barometer: BMP280<br>
 
 - ## Bill of Materials (BOM)
 | Serial Num | Description | Total (USD) | 
